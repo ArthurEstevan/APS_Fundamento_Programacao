@@ -55,9 +55,13 @@ Observações Importantes:
 O programa é projetado para lidar apenas com números inteiros positivos, assumindo que o usuário não inserirá números negativos.
 Este projeto visa fornecer aos usuários uma ferramenta simples e educativa para análise de números inteiros, promovendo a compreensão de conceitos como números primos, números pares/ímpares e fatoriais, ao mesmo tempo em que oferece informações estatísticas úteis sobre as entradas fornecidas.
 
+---
+
+## ![](./icons/arquivos-de-imagem.png) Project Demo Gift
+
 <br>
 
----
+![Gif](/icons/20230910_211909.gif)
 
 ## 🎫 _Bonus_
 
