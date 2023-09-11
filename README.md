@@ -61,7 +61,7 @@ Este projeto visa fornecer aos usuários uma ferramenta simples e educativa para
 
 <br>
 
-![Gif](/icons/20230910_211909.gif)
+![Gif](/icons/atividade.gif)
 
 ## 🎫 _Bonus_
 
