@@ -1,4 +1,4 @@
-# <img width="50px" src="icons/unifebe-logo-vertical.png" alt="Logo hDCHost" class="logo"> Atividade Prática Supervisionada Fundamento da Programação
+# _APS - Fundamento da Programação <img width="50px" src="icons/unifebe-logo-vertical.png" alt="Logo hDCHost" class="logo">_
 
 ## _Repository with several subjects in advanced java <img src="icons/java.png" alt="Logo hDCHost" class="logo">_
 
